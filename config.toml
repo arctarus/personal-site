@@ -4,7 +4,7 @@ languageCode = "en"
 theme = "hugo-ink"
 paginate = 5
 
-copyright = "© 2020 - Gabriel Ortuño"
+copyright = "© Gabriel Ortuño"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Software Engineer personal website"
+	subtitle = "Software Engineer website"
 
 	# Optional 64x64 avatar image.
 	avatar = "/images/avatar.jpg"
