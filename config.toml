@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-35690825-1"
-disqusShortname = "ink-demo"
+disqusShortname = ""
 
 [params]
 	subtitle = "Software Engineer website"
