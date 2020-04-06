@@ -17,6 +17,7 @@ a smaller one. The steps are the following:
 ## External links
 
 * This concept was originally found at the book [99 Bottles of OOP by Sandi Metz & Katrina Owen](https://www.sandimetz.com/99bottles)
+
 ## Related notes
 
 * [Build less]({{< relref "/notes/2011-06-03-build-less.md" >}}): Why you should use flocking rules to simplify your code?
