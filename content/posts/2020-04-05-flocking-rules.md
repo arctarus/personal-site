@@ -18,6 +18,10 @@ Changes to code can be subdivided into four distinct steps:
 
 Making small changes means you get very precise error messages when something goes wrong, so it’s useful to know how to work at this level of granularity. As you gain experience, you’ll begin to take larger steps, but if you take a big step and encounter an error, you should revert the change and make a smaller one.
 
-## References:
+## External links
 
 * [99 Bottles of OOP - Sandi Metz & Katrina Owen](https://www.sandimetz.com/99bottles)
+
+## Related posts
+
+* [Build less]({{< relref "/posts/2011-06-03-build-less.md" >}}): Why you should use flocking rules to simplify your code?

@@ -15,4 +15,10 @@ So what to do then? The answer is less. Do less than your competitors to beat th
 * Less meetings and abstractions
 * Less promises
 
-[37 Signals - Getting Real: Build Less](http://gettingreal.37signals.com/ch02_Build_Less.php)
+## External links
+
+* [37 Signals - Getting Real: Build Less](https://basecamp.com/books/getting-real)
+
+## Related posts
+
+* [Flocking rules]({{< relref "/posts/2020-04-05-flocking-rules.md" >}}): How can you simplify your code? Use a refactoring technique.
