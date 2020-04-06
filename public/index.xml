@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arctarus</title>
+    <link>https://arctarus.es/</link>
+    <description>Recent content on arctarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 - Gabriel Ortuño</copyright>
+    <lastBuildDate>Sun, 05 Apr 2020 23:16:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://arctarus.es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flocking rules</title>
+      <link>https://arctarus.es/posts/2020-04-05-flocking-rules/</link>
+      <pubDate>Sun, 05 Apr 2020 23:16:08 +0200</pubDate>
+      
+      <guid>https://arctarus.es/posts/2020-04-05-flocking-rules/</guid>
+      <description>Select the things that are most alike. Find the smallest difference between them. Make the simplest change that will remove that difference.  Changes to code can be subdivided into four distinct steps: 1. parse the new code 2. parse and execute it 3. parse, execute and use its result 4. delete unused code
+Making small changes means you get very precise error messages when something goes wrong, so it’s useful to know how to work at this level of granularity.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://arctarus.es/about/</link>
+      <pubDate>Sat, 04 Apr 2020 23:21:10 +0200</pubDate>
+      
+      <guid>https://arctarus.es/about/</guid>
+      <description> Gabriel Ortuño </description>
+    </item>
+    
+  </channel>
+</rss>

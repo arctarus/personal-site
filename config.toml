@@ -1,0 +1,70 @@
+baseURL = "https://arctarus.es"
+title = "Gabriel Ortuño"
+languageCode = "en"
+theme = "hugo-ink"
+paginate = 5
+
+copyright = "© 2020 - Gabriel Ortuño"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "ink-demo"
+
+[params]
+	subtitle = "Software Engineer personal website"
+
+	# Optional 64x64 avatar image.
+	avatar = "/images/avatar.jpg"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
+
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 4
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 5
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/arctarus"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"

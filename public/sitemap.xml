@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://arctarus.es/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/posts/2020-04-05-flocking-rules/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/tags/oop/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/posts/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/tags/refactoring/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/tags/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/tags/testing/</loc>
+    <lastmod>2020-04-05T23:16:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arctarus.es/about/</loc>
+    <lastmod>2020-04-04T23:21:10+02:00</lastmod>
+  </url>
+  
+</urlset>
