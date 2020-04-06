@@ -21,4 +21,4 @@ So what to do then? The answer is less. Do less than your competitors to beat th
 
 ## Related posts
 
-* [Flocking rules]({{< relref "/posts/2020-04-05-flocking-rules.md" >}}): How can you simplify your code? Use a refactoring technique.
+* [Flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}): How can you simplify your code? Use a refactoring technique.
