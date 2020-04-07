@@ -64,6 +64,11 @@ icon = "github"
 url = "https://github.com/arctarus"
 
 [[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/arctarus/"
+
+[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
