@@ -2,8 +2,6 @@
 title: "Build Less"
 description: "Write less code to do more"
 date: 2011-06-03T16:34:50+02:00
-category:
-- programming
 tags:
 - simpicity
 ---

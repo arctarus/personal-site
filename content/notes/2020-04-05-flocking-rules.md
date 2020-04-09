@@ -2,8 +2,9 @@
 title: "Flocking rules"
 date: 2020-04-05T23:16:08+02:00
 description: A set of rules to refactor code
-categories: [programming]
-tags: [refactoring, testing]
+tags:
+- refactoring
+- testing
 ---
 
 The flocking rules are an small set of rules for refactoring code. The idea is make small incremental changes that

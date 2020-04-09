@@ -2,8 +2,10 @@
 title: Zero Bug Software Development
 date: 2020-04-07T23:31:00+02:00
 description: A procedure for dealing with bugs
-categories: [programming]
-tags: [bugs, agile, quality]
+tags:
+- bugs
+- agile
+- quality
 ---
 
 Zero Bug Software Development is a policy to archive an state of zero known bugs. The first step to reach this state is label the issues using a very strict classification:
