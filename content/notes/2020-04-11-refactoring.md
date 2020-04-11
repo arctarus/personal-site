@@ -22,3 +22,11 @@ Why should you refactor?
 * Makes software easier to understand.
 * Helps you find bugs.
 * Helps you program faster.
+
+## External links
+
+* Refactoring [web](https://www.refactoring.com/) and [book](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler.
+
+## Related notes
+
+* [Flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}): A refactoring technique.
