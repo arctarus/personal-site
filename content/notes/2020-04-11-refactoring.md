@@ -28,4 +28,5 @@ Why should you refactor?
 
 ## Related notes
 
+* [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).
 * [Flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}): A refactoring technique.

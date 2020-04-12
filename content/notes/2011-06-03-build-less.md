@@ -19,4 +19,6 @@ So what to do then? The answer is less. Do less than your competitors to beat th
 
 ## Related posts
 
+* [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
+* [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).
 * [Flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}): How can you simplify your code? Use a refactoring technique.

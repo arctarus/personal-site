@@ -22,3 +22,5 @@ a smaller one. The steps are the following:
 ## Related notes
 
 * [Build less]({{< relref "/notes/2011-06-03-build-less.md" >}}): Why you should use flocking rules to simplify your code?
+* [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
+* [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).

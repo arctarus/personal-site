@@ -29,4 +29,6 @@ Therefore is very important that you classify correctly each issue. Being consis
 
 ## Related Notes
 
-* Avoid bugs using the refactor technique [flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}).
+* [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
+* [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).
+* [Flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}).
