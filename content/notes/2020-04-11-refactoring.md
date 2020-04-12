@@ -5,7 +5,6 @@ date: 2020-04-11T23:27:48+02:00
 tags:
 - extreme programming
 - refactoring
-- quality
 ---
 
 Refactoring is a technique for restructuring code in a way that you improve the design, but don't change the its external behaviour.
