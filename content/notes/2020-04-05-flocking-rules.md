@@ -16,11 +16,9 @@ a smaller one. The steps are the following:
 3. Make the simplest change that will remove that difference.
 
 ## External links
-
 * This concept was originally found at the book [99 Bottles of OOP by Sandi Metz & Katrina Owen](https://www.sandimetz.com/99bottles)
 
 ## Related notes
-
 * [Build less]({{< relref "/notes/2011-06-03-build-less.md" >}}): Why you should use flocking rules to simplify your code?
 * [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
 * [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).

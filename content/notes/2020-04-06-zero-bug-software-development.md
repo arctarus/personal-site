@@ -22,13 +22,11 @@ The important thing about this policy is:
 
 Therefore is very important that you classify correctly each issue. Being consistent with the classification system implicitly creates the team quality standards.
 
-## External links:
-
+## External links
 * [Zero bug software development by Sam Hatoum](https://medium.com/qualityfaster/the-zero-bug-policy-b0bd987be684)
 * [Hacker news thread about the post](https://news.ycombinator.com/item?id=11659994)
 
-## Related Notes
-
+## Related notes
 * [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
 * [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).
 * [Flocking rules]({{< relref "/notes/2020-04-05-flocking-rules.md" >}}).

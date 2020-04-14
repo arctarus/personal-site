@@ -17,7 +17,7 @@ So what to do then? The answer is less. Do less than your competitors to beat th
 
 * [37 Signals - Getting Real: Build Less](https://basecamp.com/books/getting-real)
 
-## Related posts
+## Related notes
 
 * [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
 * [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).
