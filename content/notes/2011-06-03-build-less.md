@@ -15,7 +15,7 @@ So what to do then? The answer is less. Do less than your competitors to beat th
 
 ## External links
 
-* [37 Signals - Getting Real: Build Less](https://basecamp.com/books/getting-real)
+* [37 Signals - Getting Real: Build Less](https://www.amazon.com/gp/product/0578012812/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=arctaruscom-20&creative=9325&linkCode=as2&creativeASIN=0578012812&linkId=7c18d148075bbc0acbd1a61834418e0c)
 
 ## Related notes
 

@@ -23,7 +23,7 @@ Why should you refactor?
 * Helps you program faster.
 
 ## External links
-* Refactoring [web](https://www.refactoring.com/) and [book](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler.
+* Refactoring [web](https://www.refactoring.com/) and [book](https://www.amazon.com/gp/product/B007WTFWJ6/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=arctaruscom-20&creative=9325&linkCode=as2&creativeASIN=B007WTFWJ6&linkId=7bafb78eced674869ad97f872a966d98) by Martin Fowler.
 
 ## Related notes
 * [When to refactor]({{< relref "/notes/2020-04-12-when-to-refactor.md" >}}).

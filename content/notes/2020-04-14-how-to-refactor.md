@@ -25,7 +25,7 @@ When you remove all the code smells in your code, it should be open to the new r
 ## External links
 
 * [99 Bottles of OOP book by Sandi Metz & Katrina Owen](https://www.sandimetz.com/99bottles).
-* Refactoring [web](https://www.refactoring.com/) and [book](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler.
+* Refactoring [web](https://www.refactoring.com/) and [book](https://www.amazon.com/gp/product/B007WTFWJ6/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=arctaruscom-20&creative=9325&linkCode=as2&creativeASIN=B007WTFWJ6&linkId=7bafb78eced674869ad97f872a966d98) by Martin Fowler.
 
 ## Related notes
 * [What is refactoring]({{< relref "/notes/2020-04-11-refactoring.md" >}}).
