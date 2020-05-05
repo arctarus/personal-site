@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://www.arctarus.com/sitemap.xml
