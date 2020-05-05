@@ -1,5 +1,6 @@
 baseURL = "https://www.arctarus.com/"
 title = "Gabriel Ortuño"
+enableRobotsTXT = true
 languageCode = "en"
 theme = "hugo-ink"
 paginate = 10
